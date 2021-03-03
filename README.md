@@ -9,6 +9,7 @@ daha sonra etkinlik esnasında, katılımcılar bu qr kodları uygulamaya okutar
 bu sayede katılımcının adı soyadı etkinlikteki rolü veya davetli olup olmadığını uygulama ile rahatlıkla bulabilirsiniz.
 
 ●Kazanım
+
 -C#, sql sorgusu
 
 -C#, thread yönetimi ve "lock" terimlerinin kullanımı
