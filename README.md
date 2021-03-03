@@ -1,7 +1,7 @@
 # Unity Event
 
 ●Uygulamanın amacı;
-Program düzenlenen bir etkinlikte, katılımcıların sahip oldukları kendilerine özel "QR" kod ile
+Program düzenlenen bir etkinlikte, katılımcıların sahip oldukları kendilerine özel "QR" kod ile daha kolay katılma ve süreci hızlandırmaya yönelik uygulama
 
 ●İlk aşama: Hazırlık
 Düzenlenen bir etkinlikte, katılımcıların bilgileri alınır.
