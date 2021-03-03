@@ -10,7 +10,7 @@ Uzak sql serverda bir table oluşturulup bilgiler kaydedilir.
 ●İkinci aşama "Uygulamanın kullanımı":
 kullanıcıların bilgileri ile basit bir kare kod oluşturulur,
 daha sonra etkinlik esnasında, katılımcılar bu qr kodları uygulamaya okutarak Sql sorgusu oluştururlar
-bu sayede katılımcının adı soyadı etkinlikteki rolü veya davetli olup olmadığını uygulama ile rahatlıkla bulabilirsiniz.
+bu sayede katılımcının adı soyadı etkinlikteki rolü veya davetli olup olmadığını uygulama ile rahatlıkla bulunabilir.
 
 
 
