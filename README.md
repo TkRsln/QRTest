@@ -16,7 +16,7 @@ bu sayede katılımcının adı soyadı etkinlikteki rolü veya davetli olup olm
 
 ●Kazanım
 
--C#, sql sorgusu
+-C#, sql komutları
 
 -C#, thread yönetimi ve "lock" terimlerinin kullanımı
 
