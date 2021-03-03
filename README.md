@@ -1,4 +1,8 @@
 # Unity Event
+
+●Uygulamanın amacı;
+Program düzenlenen bir etkinlikte, katılımcıların sahip oldukları kendilerine özel "QR" kod ile
+
 ●İlk aşama: Hazırlık
 Düzenlenen bir etkinlikte, katılımcıların bilgileri alınır.
 Uzak sql serverda bir table oluşturulup bilgiler kaydedilir.
