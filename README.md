@@ -10,6 +10,10 @@ bu sayede katılımcının adı soyadı etkinlikteki rolü veya davetli olup olm
 
 ●Kazanım
 -C#, sql sorgusu
+
 -C#, thread yönetimi ve "lock" terimlerinin kullanımı
+
 -Unity ile QR okuma
+
 -Unity ile TCP socket bağlantısı açıp, servera bağlanma
+
